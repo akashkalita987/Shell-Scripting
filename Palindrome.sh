@@ -1,8 +1,6 @@
 #!/bin/bash
-
 echo -n "Enter a string: "
 read input_string
-
 reversed_string=$(echo "$input_string" | rev)
 
 if [ "$input_string" == "$reversed_string" ]; then
