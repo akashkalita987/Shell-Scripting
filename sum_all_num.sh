@@ -1,6 +1,4 @@
 #!/bin/bash
-# Topic: Mathematical Loop Evaluations
-
 echo -n "Enter a number: "
 read num
 
