@@ -1,6 +1,4 @@
 #!/bin/bash
-# Topic: Advanced Commands (wc) & File I/O
-
 echo -n "Enter the filename: "
 read filename
 
