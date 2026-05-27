@@ -1,6 +1,4 @@
 #!/bin/bash
-# Topic: Arithmetic Operators (%, /) & While Loop
-
 echo -n "Enter a number: "
 read num
 
